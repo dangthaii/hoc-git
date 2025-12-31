@@ -1,1 +1,1 @@
-Học Git cùng thầy Daaji thật thú vị!
+Học Git cùng thầy Daaji thật thú vị nhiều nhiều!
