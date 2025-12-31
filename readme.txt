@@ -1,1 +1,1 @@
-Chào mừng đến với Git
+Học Git cùng thầy Daaji thật thú vị!
